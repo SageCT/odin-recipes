@@ -1,2 +1,4 @@
 # odin-recipes
-Project 1 from Odin Project
+First project using skills learned in Odin project
+
+  - Utilized HTML, Git, and Github.
